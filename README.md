@@ -39,8 +39,8 @@ How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - Removing the corrupted 9th grade Thomas High Data ended up having a small change on their KPIs. THS dropped from 90.95% overall passing to 90.63%, however this did not change their district ranking and held 2nd place.
 
-How does replacing the ninth-grade scores affect thhe Math and reading scores by grade?
-- Reading: The average reading score for THS increased from a 83.84% to 83.9%. However, the % of student passing reading decreased from 97.31% to 97.02%. This did not have an impact on the schools reading ranking and remined in 5th in the district.
+How does replacing the ninth-grade scores affect the Math and reading scores by grade?
+- Reading: The average reading score for THS increased from a 83.84% to 83.9%. However, the % of student passing reading decreased from 97.31% to 97.02%. This did not have an impact on the schools reading ranking and remained in 5th in the district.
 - Math: The average math score dropped from 83.42 to 83.35, while the passing math overall dropped from 97.30% to 93.19%. This resulted in THS dropping from 4th to 6th rank in avg math score ranking.
 							
 Scores by school spending
