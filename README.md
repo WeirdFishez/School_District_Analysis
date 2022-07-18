@@ -11,7 +11,7 @@ In this assignment we were tasked by the school budget committee to help analyze
 - In order to remove this data from our analysis, we used a simple "loc" function to find and replace the 9th grade data with "NaN"
 
 -Step 2: Define the outputs
-	- In meeting with the board, our team helped define the Key Performance Indicators (KPIs) that would be most useful in budget allocatio0n discussions. These KPIs were defined as the following;
+- In meeting with the board, our team helped define the Key Performance Indicators (KPIs) that would be most useful in budget allocatio0n discussions. These KPIs were defined as the following;
 	Average Math Score
 	Average Reading Score
 	% Passing Math
