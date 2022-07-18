@@ -11,7 +11,6 @@ In this assignment we were tasked by the school budget committee to help analyze
 	- In order to remove this data from our analysis, we used a simple "loc" function to find and replace the 9th grade data with "NaN"
 
 -Step 2: Define the outputs
-	
 	- In meeting with the board, our team helped define the Key Performance Indicators (KPIs) that would be most useful in budget allocatio0n discussions. These KPIs were defined as the following;
 	Average Math Score
 	Average Reading Score
@@ -30,7 +29,7 @@ In this assignment we were tasked by the school budget committee to help analyze
 		Breakdown scores by school type
 
 
-# Results: 
+# Results
  - How is the district summary affected?
 	- From the view of the entire district, the removal of the 461 THS 9th graders did not have much of an impact as it was part of a data population of 38709. Overall passing saw the biggest change, increasing from 64.9% to 65.2%.
 					
@@ -43,7 +42,6 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 How does replacing the ninth-grade scores affect the following:
 	Math and reading scores by grade
 		Reading: The average reading score for THS increased from a 83.84% to 83.9%. However, the % of student passing reading decreased from 97.31% to 97.02%. This did not have an impact on the schools reading ranking and remined in 5th in the district.
-							
 		Math: The average math score dropped from 83.42 to 83.35, while the passing math overall dropped from 97.30% to 93.19%. This resulted in THS dropping from 4th to 6th rank in avg math score ranking.
 							
 Scores by school spending
