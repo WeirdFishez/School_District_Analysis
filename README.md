@@ -53,4 +53,4 @@ Scores by school type
 - THS is a charter school and again removing THS 9th graders only had a small impact on the Charter bucket.
 			
 # Summary
-In the end, the analysis with Thomas High School 9th graders removed from the data has a small impact on the overall district summary, increasing overall passing % by .3 percentage points. The more significant impact this adjustment had was its impact on THS's KPIs along with any of the buckets it fell into in the various 7 breakdowns.![image](https://user-images.githubusercontent.com/107438816/179444249-749b292b-d9e1-4637-ac28-9302a02d4e83.png)
+In the end, the analysis with Thomas High School 9th graders removed from the data has a small impact on the overall district summary, increasing overall passing % by .3 percentage points. The more significant impact this adjustment had was its impact on THS's KPIs along with any of the buckets it fell into in the various 7 breakdowns.
