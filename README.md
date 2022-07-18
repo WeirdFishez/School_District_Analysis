@@ -7,8 +7,8 @@
 In this assignment we were tasked by the school budget committee to help analyze and present data that would help the team make more informed decisions on their upcoming yearly budget allocation.
 
 -Step 1: Clean up the Data
-	- The first step in this analysis was to look at the data provided by the school district to see if there was anything that needed to be cleaned up before we began. In this phase is was discovered that the Thomas High School 9th grade data was flagged for being inaccurate. After meeting with the board it was decided to exclude the inaccurate Thomas High data from the analysis to provide a more accurate representation of the  district.
-	- In order to remove this data from our analysis, we used a simple "loc" function to find and replace the 9th grade data with "NaN"
+- The first step in this analysis was to look at the data provided by the school district to see if there was anything that needed to be cleaned up before we began. In this phase is was discovered that the Thomas High School 9th grade data was flagged for being inaccurate. After meeting with the board it was decided to exclude the inaccurate Thomas High data from the analysis to provide a more accurate representation of the  district.
+- In order to remove this data from our analysis, we used a simple "loc" function to find and replace the 9th grade data with "NaN"
 
 -Step 2: Define the outputs
 	- In meeting with the board, our team helped define the Key Performance Indicators (KPIs) that would be most useful in budget allocatio0n discussions. These KPIs were defined as the following;
