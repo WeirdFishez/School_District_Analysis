@@ -12,7 +12,7 @@ In this assignment we were tasked by the school budget committee to help analyze
 
 -Step 2: Define the outputs
 - In meeting with the board, our team helped define the Key Performance Indicators (KPIs) that would be most useful in budget allocatio0n discussions. These KPIs were defined as the following;
-	Average Math Score
+	- Average Math Score
 	Average Reading Score
 	% Passing Math
 	% Passing Reading
